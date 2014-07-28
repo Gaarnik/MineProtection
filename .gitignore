@@ -1,4 +1,5 @@
 /build
-MineProtection.iml
-MineProtection.ipr
-MineProtection.iws
+
+*.ipr
+
+*.iws
