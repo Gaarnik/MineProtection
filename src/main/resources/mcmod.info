@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MineProtection",
+  "name": "MineProtection",
+  "description": "MineProtection add world protection in forge servers.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gaarnik"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
